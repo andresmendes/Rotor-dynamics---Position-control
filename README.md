@@ -6,3 +6,8 @@ Watch the animation on YouTube: https://youtu.be/m5f5YOUF4l4
 
 ![Logo](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/384f5b9f-effd-4c35-8c5a-dc5bd25b61c7/9dac17f8-8945-4019-90cd-976126edad74/images/1621342468.png)
 
+Controller based on **step_pid** function:
+
+https://www.mathworks.com/matlabcentral/fileexchange/92363-step_pid
+
+https://github.com/andresmendes/step_pid
